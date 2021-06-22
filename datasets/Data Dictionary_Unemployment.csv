@@ -1,0 +1,17 @@
+﻿Variable,Description
+FIPS_Code,State-county FIPS code
+State,State abbreviation
+Civilian_labor_force_2019,"Civilian labor force annual average, 2019"
+Employed_2019,"Number employed annual average, 2019"
+Unemployed_2019,"Number unemployed annual average, 2019"
+Unemployment_rate_2019,"Unemployment rate, 2019"
+Civilian_labor_force_2020,"Civilian labor force annual average, 2020"
+Employed_2020,"Number employed annual average, 2020"
+Unemployed_2020,"Number unemployed annual average, 2020"
+Unemployment_rate_2020,"Unemployment rate, 2020"
+Median_Household_Income_2019,"Estimate of median household Income, 2019"
+Med_HH_Income_Percent_of_State_Total_2019,"County household median income as a percent of the State total median household income, 2019"
+,
+Data sources:,"Rural classifications: USDA, Economic Research Service."
+,"Labor force variables: U.S. Department of Labor, Bureau of Labor Statistics, Local Area Unemployment Statistics (LAUS)."
+,"Median household Income: U.S. Department of Commerce, Bureau of the Census, Small Area Income and Poverty Estimates (SAIPE) Program."
